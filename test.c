@@ -30,3 +30,7 @@ int main()
 //  hex = &s;
  printf("%d, %s\n", s,*ps);
 }
+
+
+
+// komentar
